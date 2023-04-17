@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color: white;
+  border: 4px white solid;
+  border-radius: 15px;
+}
+body{
+  color: red;
+}
+HTML{
+  background-color: black;
+}
+a{
+  color: white;
+}
+a:hover{
+  color:red;
+}
